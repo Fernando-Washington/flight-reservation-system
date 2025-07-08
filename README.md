@@ -19,7 +19,7 @@ O sistema utiliza programação orientada a objetos com boas práticas, como abs
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 ├── classes/
 │ ├── airplane.py # Classe Airplane e seus enums
 │ ├── airplane_crews.py # Classe AirplaneCrews (herda de Person)
@@ -32,6 +32,7 @@ O sistema utiliza programação orientada a objetos com boas práticas, como abs
 ├── resources.py # Utilitários: logo, CPF e alguns imports
 ├── main.py # Script principal para executar o sistema
 └── README.md # Documentação do projeto
+```
 
 
 ---
