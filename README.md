@@ -81,7 +81,7 @@ Associa um valor ao voo com base no ID do voo.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Fernando-Washington//flight-reservation-system.git
+   git clone https://github.com/Fernando-Washington/flight-reservation-system.git
    cd flight-reservation-system
 2. Instale as depenências
 
